@@ -76,9 +76,7 @@ with gr.Blocks(css="style.css") as demo:
     gr.HTML(
         "<h1><center>Instant⚡Video</center></h1>" +
         "<p><center><span style='color: red;'>You may change the steps from 4 to 8, if you didn't get satisfied results.</center></p>" +
-        "<p><center><strong>First Video Generating takes time then Videos generate faster.</p>" +
-        "<p><center>To get best results Make Sure to Write prompts in style as Given in Examples/p>" +
-        "<p><a href='https://huggingface.co/spaces/KingNish/Instant-Video/discussions/1' >Must Share you Best Results with Community - Click HERE<a></p>"
+        "<p><center><strong>First Video Generating takes time then Videos generate faster.</p>"
     )
     with gr.Group():
         with gr.Row():
