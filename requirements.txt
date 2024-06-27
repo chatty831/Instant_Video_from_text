@@ -1,0 +1,8 @@
+accelerate
+diffusers
+gradio
+torch
+transformers
+opencv-python
+peft
+spaces
